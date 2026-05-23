@@ -1,12 +1,25 @@
 # Git and Version Control
 
+## What is Version Control?
+
+1. Version Control is a system that tracks changes made to files or code over time.
+
+2. It stores different versions of a project, so developers can see:
+- what changed,
+- when it changed,
+- and who changed it.
+
+3. It helps developers collaborate safely and restore older versions if mistakes happen.
+
+---
+
 ## Check Git Version
 
 ```bash
 git -v
 ```
 
-- If Git is not installed, it shows:
+- If Git is not installed:
 ```text
 git is not recognized as an internal or external command
 ```
@@ -15,13 +28,13 @@ git is not recognized as an internal or external command
 
 ---
 
-## Open Terminal Shortcut
+## Open VS Code Terminal
 
 ```text
 Ctrl + ~
 ```
 
-Used to open the VS Code terminal quickly.
+Shortcut used to open terminal in VS Code.
 
 ---
 
@@ -31,7 +44,7 @@ Used to open the VS Code terminal quickly.
 git init
 ```
 
-This command creates a hidden `.git` folder that helps Git track project changes.
+Creates a hidden `.git` folder that helps Git track project changes.
 
 ---
 
@@ -43,31 +56,23 @@ This command creates a hidden `.git` folder that helps Git track project changes
 git add index.html
 ```
 
-Sends `index.html` to the staging area.
-
----
-
 ### Add All Files
 
 ```bash
 git add .
 ```
 
-Sends all files to the staging area.
-
 ---
 
-## Check Git Status
+## Check Status
 
 ```bash
 git status
 ```
 
-Shows the status of all files.
+Shows the status of files.
 
----
-
-## Short Status
+### Short Status
 
 ```bash
 git status -s
@@ -83,39 +88,31 @@ Displays the status in short form.
 git commit -m "message"
 ```
 
-Commits the staged changes with a message.
+Commits staged changes with a message.
 
 ---
 
-## Configure Git Username and Email
+## Configure Username and Email
 
 Git requires username and email before making commits.
 
----
-
-### Check Configured Username
+### Check Username
 
 ```bash
 git config --global user.name
 ```
 
----
-
-### Check Configured Email
+### Check Email
 
 ```bash
 git config --global user.email
 ```
-
----
 
 ### Configure Username
 
 ```bash
 git config --global user.name "username"
 ```
-
----
 
 ### Configure Email
 
@@ -127,7 +124,7 @@ git config --global user.email "email"
 
 ## Commit ID
 
-Every commit has a unique commit ID.
+Each commit has a unique commit ID.
 
 ---
 
