@@ -5,89 +5,25 @@ My full-stack engineering learning journey, notes, concepts, commands, and proje
 ---
 
 ## 🧩 Foundations
-
-- OS Basics & Web Basics
-- Terminal
-- Git & GitHub
+Terminal, Git & GitHub, OS Basics, Web Basics
 
 ## 🎨 Frontend
-
-- HTML
-- CSS
-- Responsive Design
-- Tailwind CSS
+HTML, CSS, Responsive Design, Tailwind CSS
 
 ## 🧠 JavaScript
-
-- JavaScript Basics
-- DOM & Events
-- Async JavaScript
-- ES6+
-- OOPs
-- Mini Projects
-
-## 🧮 DSA
-
-- Time Complexity
-- Arrays & Strings
-- Searching & Sorting
-- Recursion
-- Trees
+JavaScript, DOM, Async JS, ES6+, OOPs, Projects
 
 ## ⚛️ React
-
-- React Basics
-- Hooks
-- Routing
-- API Integration
-- State Management
-- Projects
+React, Hooks, Routing, APIs, State Management
 
 ## 🧩 Backend
-
-- Node.js
-- Express.js
-- REST APIs
-- Authentication
-- MVC
+Node.js, Express.js, REST APIs, Authentication
 
 ## 🗄️ Database
-
-- MongoDB
-- Mongoose
-- Database Design
-- Indexing
-
-## 🌐 Networking
-
-- HTTP
-- TCP/IP
-- DNS
-- SSH
-- Node HTTP Server
+MongoDB, Mongoose, Database Design
 
 ## ☁️ DevOps & Cloud
-
-- Vercel
-- AWS
-- NGINX
-- PM2
-- CI/CD
-
-## 🟦 TypeScript
-
-- Basics
-- Generics
-- React & Node Integration
+AWS, NGINX, PM2, CI/CD
 
 ## 🤖 AI for Developers
-
-- AI Tools
-- Automation
-- AI Features
-
----
-
-## Goal
-
-Build strong engineering fundamentals through consistent learning, practice, documentation, and projects.
+AI Tools, Automation, AI Features
