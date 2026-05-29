@@ -100,3 +100,19 @@ Use the commit ID from `git reflog` to restore the commit.
 - `--mixed` → keeps changes in working directory.
 - `--hard` → removes changes completely.
 - `git reflog` helps recover commits that were reset.
+
+## Revert a Commit
+
+```bash
+git revert commit-id
+```
+
+Creates a new commit that reverses the changes made by the specified commit.
+
+Unlike `git reset`, `git revert` does not remove commit history and is safe to use after pushing code to GitHub.
+
+### Example
+
+```bash
+git revert a1b2c3d
+```
