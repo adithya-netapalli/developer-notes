@@ -1,11 +1,7 @@
 # Frontend Developer Roadmap
 
-A simple roadmap website for learning Frontend Development.
+A structured roadmap for mastering modern frontend development.
 
-## Technologies Used
+### HTML
 
-🌐 HTML
-
-## Live Demo
-
-https://frontend-space.netlify.app
+[View Roadmap →](https://frontend-space.netlify.app)
