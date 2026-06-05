@@ -4,7 +4,7 @@ A simple roadmap website for learning Frontend Development.
 
 ## Technologies Used
 
-- HTML
+🌐 HTML
 
 ## Live Demo
 
