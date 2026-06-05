@@ -8,4 +8,4 @@ A simple roadmap website for learning Frontend Development.
 
 ## Live Demo
 
-- https://frontend-space.netlify.app
+https://frontend-space.netlify.app
