@@ -1,29 +1,59 @@
 # Developer Notes
 
-My full-stack engineering learning journey, notes, concepts, commands, and projects.
+My learning notes, concepts, commands, and projects from my software engineering journey.
 
----
+## Foundations
 
-## 🧩 Foundations
-Terminal, Git & GitHub, OS Basics, Web Basics
+- OS Basics
+- Terminal
+- Git & GitHub
+- Web Basics
 
-## 🎨 Frontend
-HTML, CSS, Responsive Design, Tailwind CSS
+## Frontend
 
-## 🧠 JavaScript
-JavaScript, DOM, Async JS, ES6+, OOPs, Projects
+- HTML
+- CSS
+- Responsive Design
+- Tailwind CSS
 
-## ⚛️ React
-React, Hooks, Routing, APIs, State Management
+## JavaScript
 
-## 🧩 Backend
-Node.js, Express.js, REST APIs, Authentication
+- JavaScript
+- DOM & Events
+- Async JavaScript
+- ES6+
+- OOPs
 
-## 🗄️ Database
-MongoDB, Mongoose, Database Design
+## React
 
-## ☁️ DevOps & Cloud
-AWS, NGINX, PM2, CI/CD
+- React
+- Hooks
+- Routing
+- API Integration
+- State Management
 
-## 🤖 AI for Developers
-AI Tools, Automation, AI Features
+## Backend
+
+- Node.js
+- Express.js
+- REST APIs
+- Authentication
+
+## Database
+
+- MongoDB
+- Mongoose
+- Database Design
+
+## DevOps & Cloud
+
+- AWS
+- NGINX
+- PM2
+- CI/CD
+
+## AI for Developers
+
+- AI Tools
+- Automation
+- AI Features
