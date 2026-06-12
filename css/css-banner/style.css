@@ -6,7 +6,7 @@ body {
 .hashtag-header {
   /* height: 300px; */
   background-color: #065fd4;
-  padding: 5rem;
+  padding: 5rem 8rem;
   color: white;
   background-image: url(./images/background.png);
   background-size: 230px;
