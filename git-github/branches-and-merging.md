@@ -112,9 +112,7 @@ Merges the given branch into the current branch.
 
 ### Example
 
-```bash
-git merge about
-```
+
 
 ---
 
