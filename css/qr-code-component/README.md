@@ -1,9 +1,13 @@
- # QR Code Component
-A simple QR code component built using HTML and CSS.
+# QR Code Card 📇
 
-[View Project](https://adi-qr-card.netlify.app/)
+A clean and responsive QR code card component built by recreating a real-world design reference using HTML and CSS.
 
-## Technologies
+## 🔗 Live Demo
+[adi-qr-card.netlify.app](https://adi-qr-card.netlify.app)
 
-- HTML
-- CSS
+## 🛠️ Technologies
+- HTML5
+- CSS3
+
+## 👨‍💻 Author
+[Adithya Sesha Reddy Netapalli](https://linkedin.com/in/adithya-netapalli)
