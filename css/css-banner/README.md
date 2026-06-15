@@ -1,10 +1,12 @@
-# CSS Banner
+# YouTube Hashtag Banner 
 
-A responsive banner component recreated from a design reference using HTML and CSS.
+A clean and responsive YouTube channel hashtag banner built by recreating a real-world design reference using HTML and CSS.
 
-[Live Demo](https://youtube-hashtag-banner.netlify.app/)
+[🔗Live Demo](https://youtube-hashtag-banner.netlify.app)
 
 ## Technologies
+- HTML5
+- CSS3
 
-- HTML
-- CSS
+## Author
+[Adithya Sesha Reddy Netapalli](https://linkedin.com/in/adithya-netapalli)
